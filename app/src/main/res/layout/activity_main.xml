@@ -15,6 +15,7 @@
         android:layout_width="match_parent" android:layout_height="wrap_content"
         android:layout_alignParentBottom="true" android:layout_toRightOf="@id/emoji_btn" android:layout_toLeftOf="@id/submit_btn" emojicon:emojiconSize="28sp" />
 
+
    <EditText
        android:layout_width="fill_parent"
        android:layout_height="wrap_content"
